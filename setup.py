@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='FluentGenerator',
-    version='2022.02.02.1',
+    version='2022.02.02.2',
     packages=find_packages(),
     url='https://github.com/ulbwazhine/FluentGenerator',
     license='MIT',

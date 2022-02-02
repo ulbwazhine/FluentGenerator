@@ -15,8 +15,8 @@
   * [Update](https://github.com/ulbwazhine/FluentGenerator#update)
 * [Usage](https://github.com/ulbwazhine/FluentGenerator#usage)
   * [In Python console](https://github.com/ulbwazhine/FluentGenerator#in-python-console)
-  * [FluentGenerator](https://github.com/ulbwazhine/FluentGenerator#FluentGenerator-parameters)
-  * [FluentGenerator.generate parameters](https://github.com/ulbwazhine/FluentGenerator#fluentgeneratorgenerate-parameters)
+  * [FluentGenerator](https://github.com/ulbwazhine/FluentGenerator#fluentimage-parameters)
+  * [FluentGenerator.generate parameters](https://github.com/ulbwazhine/FluentGenerator#fluentimagegenerate-parameters)
 * [Links](https://github.com/ulbwazhine/FluentGenerator#links)
 
 ## Example
