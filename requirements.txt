@@ -1,0 +1,5 @@
+setuptools>=60.5.0
+asyncio>=3.4.3
+html2image>=2.0.1
+TemporaryStorage>=2022.1.31.2
+Jinja2>=3.0.3

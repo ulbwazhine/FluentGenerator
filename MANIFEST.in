@@ -1,0 +1,2 @@
+global-include *.md *.txt *.html
+global-exclude generated/*.png
